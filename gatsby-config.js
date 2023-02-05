@@ -2,11 +2,11 @@ const config = require('./src/config');
 
 module.exports = {
    siteMetadata: {
-   5:     title: 'Maneesh Sinha',
-   6      description:
-   7:       'Maneesh Kumar Sinha is a Upcoming software engineer who specializes in building and designing softwares or models.',
-   8:     siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
-   9      image: '/og.png', // Path to your image you placed in the 'static' folder
+        title: 'Maneesh Sinha',
+         description:
+          'Maneesh Kumar Sinha is a Upcoming software engineer who specializes in building and designing softwares or models.',
+        siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+         image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@MANEESH84765536',
   },
   plugins: [

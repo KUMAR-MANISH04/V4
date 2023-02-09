@@ -7,7 +7,7 @@ cta: ''
 tech:
   - OOPs
   - Cpp
-  - Data Structures
+  - Data-Structures
   - 
 ---
 

@@ -1,16 +1,14 @@
 ---
 date: '1'
 title: 'Face Mask Detection'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
+cover: './facemask.png'
+github: 'https://github.com/KUMAR-MANISH04/FACE_MASK_DETECTION'
 external: ''
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
-  - oksdl
+  - Pyhthon
+  - ML
+  - Computer Vision
+  - Deep learning
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Face mask detection projects use computer vision and deep learning to detect whether people are wearing face masks in real time. The project's purpose is to guarantee that face mask policies are followed in public locations in order to assist prevent the spread of COVID-19 and other infectious diseases.

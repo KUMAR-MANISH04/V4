@@ -1,15 +1,13 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Notes Application'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://github.com/KUMAR-MANISH04/ETPproject/tree/main/Dear%20Diary'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Kotlin
+  - Android Applicaton Development
+  - SQLite
+  - Android Studio
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A notes application project is a android appplication solution that allows users to electronically generate, store, and manage notes. The project's purpose is to give users with a simple and effective way to organise and manage critical information. The notes programme usually employs a user-friendly design that allows users to easily create and edit notes, categorise them, and search for specific notes.

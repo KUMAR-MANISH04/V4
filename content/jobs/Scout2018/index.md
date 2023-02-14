@@ -7,6 +7,7 @@ range: '2017 - May 2019'
 url: 'https://srichaitanya.net/'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Attended coaching classes or workshops to prepare for entrance exams for professional courses.
+- Participated in a science or math Olympiad competition.
+- Volunteered at a charity organization.
+- Participated in a social service project, cleaning up of local park or beach.

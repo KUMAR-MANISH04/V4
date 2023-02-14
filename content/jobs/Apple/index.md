@@ -7,7 +7,6 @@ range: '2008 - May 2017'
 url: 'https://xavierschool.in/'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- Awarded with Academic Excellence Award for scoring a good percentage.
+- Have won first place in the school's annual science fair with electro magnet project, and went on to represent the school at the regional science competition where I placed in the top 10.
+- Spent my Saturdays volunteering at the school's garden, where we grew fresh produce for locals and stray animals, and also organized a charity drive with the school's Club, for a local homeless shelter.

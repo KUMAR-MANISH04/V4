@@ -2,7 +2,7 @@
 date: '2'
 title: 'Notes Application'
 cover: './demo.png'
-external: 'https://github.com/KUMAR-MANISH04/ETPproject/tree/main/Dear%20Diary'
+github: 'https://github.com/KUMAR-MANISH04/ETPproject/tree/main/Dear%20Diary'
 tech:
   - Kotlin
   - SQLite

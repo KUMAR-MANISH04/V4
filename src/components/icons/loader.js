@@ -7,7 +7,7 @@ const IconLoader = () => (
       <g id="B" transform="translate(11.000000, 5.000000)"></g>
       <path
         stroke="currentColor"
-        strokeWidth="10"
+        strokeWidth="5"
         strokeLinecap="round"
         strokeLinejoin="round"
         d="M 50, 5
@@ -18,8 +18,8 @@ const IconLoader = () => (
                   L 89, 28 z"
       />
     </g>
-    <text x="24" y="70" fill="currentColor" fontSize="55px" fontFamily="Arial Black">
-      M
+    <text x="15" y="70" fill="currentColor" fontSize="50px" fontFamily="Arial">
+      MK
     </text>
   </svg>
 );

@@ -3,7 +3,7 @@ date: '1'
 title: 'Face Mask Detection'
 cover: './facemask.png'
 github: 'https://github.com/KUMAR-MANISH04/FACE_MASK_DETECTION'
-external: ''
+external: 'https://github.com/KUMAR-MANISH04/FACE_MASK_DETECTION'
 tech:
   - Python
   - ML

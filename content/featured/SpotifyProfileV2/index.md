@@ -3,7 +3,7 @@ date: '3'
 title: 'Banking System '
 cover: './demo.png'
 github: 'https://github.com/KUMAR-MANISH04/Banking_system_cpp'
-external: ''
+external: 'https://github.com/KUMAR-MANISH04/Banking_system_cpp'
 cta: ''
 tech:
   - OOPs
